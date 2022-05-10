@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2aeeec9b-380a-447b-91f6-3f9957591b9f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screens/home/CarLeaseSuccessful/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/home/CarLeaseSuccessful/index.tsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="TypeScript File" />
+        <option value="TypeScript JSX File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1l9ve5tmjfDCr0wvB7VfDN4kozx" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="AtomAssocConfig" />
+    <property name="ts.external.directory.path" value="C:\Users\max_c\OneDrive\Desktop\PortfolioWorthy\rentX\node_modules\typescript\lib" />
+    <property name="ts.rename.search.for.dynamic.occurrences" value="true" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\max_c\OneDrive\Desktop\PortfolioWorthy\rentX" />
+      <recent name="C:\Users\max_c\OneDrive\Desktop\PortfolioWorthy\rentX\src\components\svgs\animated" />
+      <recent name="C:\Users\max_c\OneDrive\Desktop\PortfolioWorthy\rentX\src\screens\home\tabs\Profile\components\Content\components" />
+      <recent name="C:\Users\max_c\OneDrive\Desktop\PortfolioWorthy\rentX\src\screens\home\tabs\Profile\components\Header\components\Avatar" />
+      <recent name="C:\Users\max_c\OneDrive\Desktop\PortfolioWorthy\rentX\src\components\svgs\static" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\max_c\OneDrive\Desktop\PortfolioWorthy\rentX\.github" />
+      <recent name="C:\Users\max_c\OneDrive\Desktop\PortfolioWorthy\rentX\src\screens\home\tabs\components" />
+      <recent name="C:\Users\max_c\OneDrive\Desktop\PortfolioWorthy\rentX\src\hooks" />
+      <recent name="C:\Users\max_c\OneDrive\Desktop\PortfolioWorthy\rentX\src\components\svgs\static\engineTypes" />
+      <recent name="C:\Users\max_c\OneDrive\Desktop\PortfolioWorthy\rentX\src\components\svgs\static" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2aeeec9b-380a-447b-91f6-3f9957591b9f" name="Default Changelist" comment="" />
+      <created>1607022217315</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607022217315</updated>
+      <workItem from="1607022220040" duration="4473000" />
+      <workItem from="1607092318090" duration="14301000" />
+      <workItem from="1607112804415" duration="9736000" />
+      <workItem from="1607174748103" duration="28814000" />
+      <workItem from="1607349847250" duration="2683000" />
+      <workItem from="1607371211347" duration="10174000" />
+      <workItem from="1607390717833" duration="4516000" />
+      <workItem from="1607459835843" duration="1461000" />
+      <workItem from="1607543246829" duration="411000" />
+      <workItem from="1607543868584" duration="8268000" />
+      <workItem from="1607610546519" duration="7163000" />
+      <workItem from="1607692248820" duration="7600000" />
+      <workItem from="1607712909477" duration="10122000" />
+      <workItem from="1607733638110" duration="7665000" />
+      <workItem from="1607784941685" duration="6024000" />
+      <workItem from="1607793905467" duration="11069000" />
+      <workItem from="1607808414377" duration="2874000" />
+      <workItem from="1607866530758" duration="10713000" />
+      <workItem from="1607886106303" duration="7217000" />
+      <workItem from="1608038534417" duration="11555000" />
+      <workItem from="1608128265824" duration="10469000" />
+      <workItem from="1608159972004" duration="4695000" />
+      <workItem from="1608220304563" duration="1684000" />
+      <workItem from="1608231668171" duration="1543000" />
+      <workItem from="1608302334245" duration="2010000" />
+      <workItem from="1608329645281" duration="1920000" />
+      <workItem from="1608388338026" duration="1367000" />
+      <workItem from="1608400898853" duration="9953000" />
+      <workItem from="1608475920119" duration="3299000" />
+      <workItem from="1608492799205" duration="7048000" />
+      <workItem from="1608561320756" duration="174000" />
+      <workItem from="1608561517265" duration="3619000" />
+      <workItem from="1608571192989" duration="10572000" />
+      <workItem from="1608599951176" duration="2722000" />
+      <workItem from="1608658315750" duration="10568000" />
+      <workItem from="1608731184869" duration="7162000" />
+      <workItem from="1608765527983" duration="7375000" />
+      <workItem from="1608832126089" duration="14763000" />
+      <workItem from="1608907274713" duration="3783000" />
+      <workItem from="1608932281870" duration="2976000" />
+      <workItem from="1608947068740" duration="600000" />
+      <workItem from="1608990237877" duration="20784000" />
+      <workItem from="1609078012040" duration="5569000" />
+      <workItem from="1609100740856" duration="20675000" />
+      <workItem from="1609163792287" duration="7651000" />
+      <workItem from="1609181606119" duration="2514000" />
+      <workItem from="1609184238185" duration="15195000" />
+      <workItem from="1609247074577" duration="4438000" />
+      <workItem from="1609266104056" duration="953000" />
+      <workItem from="1609267144244" duration="1675000" />
+      <workItem from="1609268929344" duration="6496000" />
+      <workItem from="1609278614559" duration="11974000" />
+      <workItem from="1609335800716" duration="3739000" />
+      <workItem from="1609341259595" duration="1389000" />
+      <workItem from="1609359780560" duration="676000" />
+      <workItem from="1609364842882" duration="3731000" />
+      <workItem from="1609377260632" duration="7327000" />
+      <workItem from="1609422096731" duration="12245000" />
+      <workItem from="1609443572627" duration="8752000" />
+      <workItem from="1609456353997" duration="131000" />
+      <workItem from="1609470895977" duration="371000" />
+      <workItem from="1609504710327" duration="13263000" />
+      <workItem from="1609525854629" duration="8887000" />
+      <workItem from="1609538606473" duration="945000" />
+      <workItem from="1609540887875" duration="161000" />
+      <workItem from="1609552726334" duration="231000" />
+      <workItem from="1609593331289" duration="3980000" />
+      <workItem from="1609611842192" duration="4280000" />
+      <workItem from="1609616170934" duration="464000" />
+      <workItem from="1609619949083" duration="8064000" />
+      <workItem from="1609680663366" duration="13855000" />
+      <workItem from="1609706420732" duration="1656000" />
+      <workItem from="1609709134637" duration="5341000" />
+      <workItem from="1609782953279" duration="309000" />
+      <workItem from="1609785905683" duration="8940000" />
+      <workItem from="1609852616001" duration="7295000" />
+      <workItem from="1609869095446" duration="4993000" />
+      <workItem from="1609877046117" duration="2951000" />
+      <workItem from="1609882730656" duration="6491000" />
+      <workItem from="1609895317810" duration="1295000" />
+      <workItem from="1609945006618" duration="597000" />
+      <workItem from="1609954506027" duration="7529000" />
+      <workItem from="1609981047539" duration="928000" />
+      <workItem from="1610019879618" duration="881000" />
+      <workItem from="1610045185156" duration="2071000" />
+      <workItem from="1610048021591" duration="11239000" />
+      <workItem from="1610062282014" duration="1443000" />
+      <workItem from="1610119653696" duration="15000000" />
+      <workItem from="1610141147869" duration="12000" />
+      <workItem from="1610142979054" duration="4263000" />
+      <workItem from="1610191874276" duration="5064000" />
+      <workItem from="1610206152230" duration="5004000" />
+      <workItem from="1610217042520" duration="14611000" />
+      <workItem from="1610284735643" duration="6798000" />
+      <workItem from="1610314042527" duration="7492000" />
+      <workItem from="1610370967078" duration="22477000" />
+      <workItem from="1610476611548" duration="2940000" />
+      <workItem from="1610544443416" duration="718000" />
+      <workItem from="1610559119683" duration="1273000" />
+      <workItem from="1610577215610" duration="594000" />
+      <workItem from="1610811361384" duration="103000" />
+      <workItem from="1610822635244" duration="334000" />
+      <workItem from="1610823858940" duration="2385000" />
+      <workItem from="1610893286019" duration="1789000" />
+      <workItem from="1610901266534" duration="1318000" />
+      <workItem from="1610925995602" duration="22000" />
+      <workItem from="1611448390500" duration="670000" />
+      <workItem from="1612120877247" duration="715000" />
+      <workItem from="1612131115031" duration="139000" />
+      <workItem from="1612395225662" duration="641000" />
+      <workItem from="1612467942401" duration="1176000" />
+      <workItem from="1612726915015" duration="545000" />
+      <workItem from="1613073132980" duration="5963000" />
+      <workItem from="1613761809750" duration="70000" />
+      <workItem from="1613770972043" duration="646000" />
+      <workItem from="1614260519352" duration="594000" />
+      <workItem from="1614381447850" duration="605000" />
+      <workItem from="1614617967957" duration="29000" />
+      <workItem from="1614618587344" duration="822000" />
+      <workItem from="1617129157429" duration="571000" />
+      <workItem from="1617391123445" duration="569000" />
+      <workItem from="1622137511710" duration="537000" />
+      <workItem from="1622213355445" duration="1348000" />
+      <workItem from="1622292598667" duration="463000" />
+      <workItem from="1622465395064" duration="2313000" />
+      <workItem from="1624286494183" duration="805000" />
+      <workItem from="1624367367292" duration="3841000" />
+      <workItem from="1624802662926" duration="1217000" />
+      <workItem from="1624832255156" duration="945000" />
+      <workItem from="1625064607606" duration="58000" />
+      <workItem from="1625948783364" duration="506000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
